@@ -1,0 +1,14 @@
+{
+  "name": "EDMD Token List",
+  "logoURI": "https://raw.githubusercontent.com/0xEdmundo/edmd-token/main/IMG_4565.png",
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0xE776B4771ADBa8E43554DC3b4FA84Ff66c011478",
+      "name": "EDMD",
+      "symbol": "EDMD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/0xEdmundo/edmd-token/main/IMG_4565.png"
+    }
+  ]
+}
