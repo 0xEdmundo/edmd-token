@@ -169,7 +169,7 @@ Upload or link:
 ### ✔ Tip  
 You can upload your logo to GitHub and use the **raw file URL**.
 
-Örnek logo yolu (kendine göre düzenle):
+Example Token name etc. edit as per your own
 
 ```
 https://raw.githubusercontent.com/0xEdmundo/edmd-token/main/assets/edmd-logo-32x32.png
