@@ -7,7 +7,7 @@ Everything you see here can be repeated by anyone, even with **zero experience**
 
 ---
 
-# 📌 Token Details
+# 📌 Token Details.
 
 - **Token Name:** 0xEdmundo  
 - **Symbol:** EDMD  
